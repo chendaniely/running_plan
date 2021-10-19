@@ -19,3 +19,8 @@ Strava: https://www.strava.com/athletes/14758582
 
 - https://www.runnersworld.com/uk/training/a760072/six-week-intermediate-5k-schedule/
 - direct link: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/intermediate-5k-1598024599.jpg?resize=768:*
+
+## Novice 8k
+
+- https://www.halhigdon.com/training-programs/8k-training/novice-8k/
+
